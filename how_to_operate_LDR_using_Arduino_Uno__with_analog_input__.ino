@@ -3,7 +3,10 @@
 *This code discribes that how an Light dependent resistor can be operated with analog input using Arduino Uno.
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*
+*for more detail please visit:https://www.arduinounomagic.com/2019/01/how-to-operate-ldr-using-arduino-uno.html
+*
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 
 
